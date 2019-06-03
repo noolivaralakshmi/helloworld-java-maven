@@ -39,12 +39,12 @@
 	</build>
 <distributionManagement>
     <repository>
-        <id>aleesha</id>
+        <id>deployment</id>
         <name>aleesha-releases</name>
         <url>http://192.168.154.150:8081/repository/snap_rel/</url>
     </repository>
     <snapshotRepository>
-        <id>aleesha</id>
+        <id>deployment</id>
         <name>aleesha-snapshots</name>
         <url>http://192.168.154.150:8081/repository/sample_snap/</url>
     </snapshotRepository>
