@@ -46,7 +46,7 @@
     <snapshotRepository>
         <id>aleesha</id>
         <name>aleesha-snapshots</name>
-        <url>http://13.232.2.248:8080/artifactory/muniraja</url>
+        <url>http://192.168.154.150:8081/repository/sample_snap/</url>
     </snapshotRepository>
 </distributionManagement>
 
